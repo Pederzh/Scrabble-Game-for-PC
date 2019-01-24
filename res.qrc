@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ScarabeoTITOLO.png</file>
+        <file>caselleGiocatore.png</file>
+    </qresource>
+</RCC>
